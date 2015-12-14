@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FinalAlarm</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="date">
+        <item>31-10-2015</item>
+        <item>31-10-2015</item>
+        <item>31-10-2015</item>
+        <!--
+        <item>27-10-2015</item>
+        <item>27-10-2015</item>
+        <item>27-10-2015</item>
+        -->
+    </string-array>
+    <string-array name="hour">
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <!--
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        -->
+    </string-array>
+    <string-array name="minute">
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <!--
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        -->
+    </string-array>
+    <string-array name="songFile">
+        <item>s9.mp3</item>
+        <item>s10.mp3</item>
+        <item>s11.mp3</item>
+        <!--
+        <item>s4.mp3</item>
+        <item>s5.mp3</item>
+        <item>s6.mp3</item>
+        -->
+    </string-array>
+
+    <string name="title_activity_result">ResultActivity</string>
+
+</resources>
